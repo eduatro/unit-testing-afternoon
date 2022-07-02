@@ -1,4 +1,4 @@
-const Carrito = require('./Carrito');
+const Carrito = require('./carrito');
 const autos = require('./data/autos');
 let carritoCompras = new Carrito();
 
